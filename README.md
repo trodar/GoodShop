@@ -21,20 +21,20 @@ The sample app layers its presentation through MVVM presentation pattern. Additi
   	</tr>
 	<tr>
     	<td align="center">
-			<img src="misc/authentication.gif" alt="Now Playing Screen" width="300"/>
+			<img src="misc/authentication.gif" alt="Now Playing Screen" width="200"/>
     	</td>
 		<td align="center">
-			<img src="misc/Home.gif" alt="Popular Screen" width="300"/>
+			<img src="misc/Home.gif" alt="Popular Screen" width="200"/>
     	</td>
   <td align="center">
-			<img src="misc/Categories.gif" alt="Upcoming Screen" width="300"/>
+			<img src="misc/Categories.gif" alt="Upcoming Screen" width="200"/>
     	</td>
   	</tr>
 </table>
 <p>
-<img align="center" src="misc/authentication.gif" width="280" height="611"/>
-<img align="center" src="misc/Home.gif" width="280" height="611"/>
-<img align="center" src="misc/Categories.gif" width="280" height="611"/>
+<img align="center" src="misc/authentication.gif" width="250"/>
+<img align="center" src="misc/Home.gif" width="250"/>
+<img align="center" src="misc/Categories.gif" width="250"/>
 </p>
 
 

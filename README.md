@@ -24,7 +24,7 @@ The sample app layers its presentation through MVVM presentation pattern. Additi
 			<img src="misc/authentication.gif" alt="Now Playing Screen" width="300"/>
     	</td>
 		<td align="center">
-			<img src="misc/Home.gifg" alt="Popular Screen" width="300"/>
+			<img src="misc/Home.gif" alt="Popular Screen" width="300"/>
     	</td>
   <td align="center">
 			<img src="misc/Categories.gif" alt="Upcoming Screen" width="300"/>

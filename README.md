@@ -43,9 +43,9 @@ The modules are as follow:
 
 ## Images
 <p>
-<img align="center" src="misc/Auth.jpg" width="290" />
-<img align="center" src="misc/Product_detail.jpg" width="290" />
-<img align="center" src="misc/Payments.jpg" width="290" />
+<img align="center" src="misc/Auth.jpg" width="280" />
+<img align="center" src="misc/Product_detail.jpg" width="280" />
+<img align="center" src="misc/Payments.jpg" width="280" />
 </p>
 
 ## Tech Stack

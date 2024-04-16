@@ -7,6 +7,12 @@ The project tries to combine popular Android tools and to demonstrate best devel
 The sample app layers its presentation through MVVM presentation pattern. Additionally, the application features animations like expanding and collapsing row items.
 
 ## Description
+<p>
+<img align="center" src="misc/authentication.gif" width="300" height="711"/>
+<img align="center" src="misc/Home.gif" width="300" height="711"/>
+<img align="center" src="misc/Categories.gif" width="300" height="711"/>
+</p>
+
 
 A Clean Architecture App to show use of  multi-module-architecture in a Jetpack Compose.
 
@@ -34,9 +40,14 @@ The modules are as follow:
 
 * navigation: A Navigation Layer
 
-## Tech Stack
+## Images
+<p>
+<img align="center" src="misc/Auth.jpg" width="300" height="711"/>
+<img align="center" src="misc/Product_detail.jpg" width="300" height="711"/>
+<img align="center" src="misc/Orders.jpg" width="300" height="711"/>
+</p>
 
-<img src="misc/authentication.gif" width="380" height="811" align="right" hspace="40">
+## Tech Stack
 
 * Multi-Module-Architecture
 * OTP Authentication

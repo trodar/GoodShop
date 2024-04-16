@@ -36,7 +36,7 @@ The modules are as follow:
 
 ## Tech Stack
 
-<img src="misc/authentication.gif" width="380" height="711" align="right" hspace="20">
+<img src="misc/authentication.gif" width="380" height="811" align="right" hspace="40">
 
 * Multi-Module-Architecture
 * OTP Authentication

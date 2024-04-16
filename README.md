@@ -7,6 +7,30 @@ The project tries to combine popular Android tools and to demonstrate best devel
 The sample app layers its presentation through MVVM presentation pattern. Additionally, the application features animations like expanding and collapsing row items.
 
 ## Description
+<table style="padding:10px">
+	<tr>
+		<td align="center">
+			<h2>Authentication Screen</h2>
+		</td>
+		<td align="center">
+			<h2>Home Screen</h2>
+		</td>
+  <td align="center">
+			<h2>Categories Screen</h2>
+		</td>
+  	</tr>
+	<tr>
+    	<td align="center">
+			<img src="misc/authentication.gif" alt="Now Playing Screen" width="300"/>
+    	</td>
+		<td align="center">
+			<img src="misc/Home.gifg" alt="Popular Screen" width="300"/>
+    	</td>
+  <td align="center">
+			<img src="misc/Categories.gif" alt="Upcoming Screen" width="300"/>
+    	</td>
+  	</tr>
+</table>
 <p>
 <img align="center" src="misc/authentication.gif" width="280" height="611"/>
 <img align="center" src="misc/Home.gif" width="280" height="611"/>

@@ -36,7 +36,10 @@ The modules are as follow:
 
 ## Tech Stack
 
+<img src="misc/authentication.gif" width="380" height="711" align="right" hspace="20">
+
 * Multi-Module-Architecture
+* OTP Authentication
 * [Kotlin](https://kotlinlang.org/) 100% coverage
 * [Jetpack](https://developer.android.com/jetpack)
   * [Compose](https://developer.android.com/jetpack/compose)

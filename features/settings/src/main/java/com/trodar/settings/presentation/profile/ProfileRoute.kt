@@ -1,0 +1,59 @@
+package com.trodar.settings.presentation.profile
+
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Scaffold
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.stringResource
+import androidx.hilt.navigation.compose.hiltViewModel
+import androidx.navigation.NavHostController
+import com.trodar.theme.R
+import com.trodar.utils.extensions.canGoBack
+import com.trodar.utils.fetures.components.BackIconButton
+import com.trodar.utils.fetures.fragments.CenterAppBar
+import com.trodar.utils.fetures.showShortToast
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun ProfileRoute(
+    profileViewModel: ProfileViewModel = hiltViewModel(),
+    navController: NavHostController,
+
+    ) {
+
+    val uiState by profileViewModel.uiState.collectAsState()
+    val context = LocalContext.current
+    Scaffold(
+
+        topBar = {
+            CenterAppBar(
+                title = stringResource(id = R.string.profile_edit),
+                navigationIconContent = {
+                    BackIconButton {
+                        if (navController.canGoBack)
+                            navController.popBackStack()
+                    }
+                }
+            )
+        }
+
+    ) { paddingValues ->
+        ProfileScreen(
+            paddingValues = paddingValues,
+            profile = uiState.profile,
+            uri = uiState.profileImageUri,
+            onAdvtChange = { profileViewModel.profileChange(uiState.profile.copy(advt = it)) },
+            onEmailChange = { profileViewModel.profileChange(uiState.profile.copy(email = it)) },
+            onImageChange = { profileViewModel.uriChange(it) },
+            onNameChange = { profileViewModel.profileChange(uiState.profile.copy(user = it)) },
+            onPhoneChange = { profileViewModel.profileChange(uiState.profile.copy(phone = it)) },
+            onLogOutClick = {},
+            onSaveClick = {
+                profileViewModel.updateProfile()
+                showShortToast(context, context.getString(R.string.saved))
+            },
+        )
+    }
+}

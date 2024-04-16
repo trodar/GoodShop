@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="value_invalid">The value cannot be empty or is not in the correct format.</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="your_name">Your name</string>
+</resources>

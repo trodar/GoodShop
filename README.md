@@ -8,9 +8,9 @@ The sample app layers its presentation through MVVM presentation pattern. Additi
 
 ## Description
 <p>
-<img align="center" src="misc/authentication.gif" width="300" height="711"/>
-<img align="center" src="misc/Home.gif" width="300" height="711"/>
-<img align="center" src="misc/Categories.gif" width="300" height="711"/>
+<img align="center" src="misc/authentication.gif" width="295" height="711"/>
+<img align="center" src="misc/Home.gif" width="295" height="711"/>
+<img align="center" src="misc/Categories.gif" width="295" height="711"/>
 </p>
 
 
@@ -42,9 +42,9 @@ The modules are as follow:
 
 ## Images
 <p>
-<img align="center" src="misc/Auth.jpg" width="300" height="711"/>
-<img align="center" src="misc/Product_detail.jpg" width="300" height="711"/>
-<img align="center" src="misc/Payments.jpg" width="300" height="711"/>
+<img align="center" src="misc/Auth.jpg" width="295" height="711"/>
+<img align="center" src="misc/Product_detail.jpg" width="295" height="711"/>
+<img align="center" src="misc/Payments.jpg" width="295" height="711"/>
 </p>
 
 ## Tech Stack
@@ -81,5 +81,5 @@ Then fork this repo, make it better and don't forget give a STAR.
 ## The basis was to take a freelance project (I'm not selected candidate)
 
 <p>
-<img align="center" src="misc/Task_Freelance.png" width="1200" height="611"/>
+<img align="center" src="misc/Task_Freelance.png" width="1200" height="550"/>
 </p>

@@ -44,7 +44,7 @@ The modules are as follow:
 <p>
 <img align="center" src="misc/Auth.jpg" width="300" height="711"/>
 <img align="center" src="misc/Product_detail.jpg" width="300" height="711"/>
-<img align="center" src="misc/Orders.jpg" width="300" height="711"/>
+<img align="center" src="misc/Payments.jpg" width="300" height="711"/>
 </p>
 
 ## Tech Stack
@@ -71,9 +71,15 @@ The modules are as follow:
 
 
 ## Did you find this repository helpful?
+
 Don't forget give a star.
 
 ## Didn't you?
+
 Then fork this repo, make it better and don't forget give a STAR.
 
-### The basis was to take a freelance project (I'm not selected candidate)
+## The basis was to take a freelance project (I'm not selected candidate)
+
+<p>
+<img align="center" src="misc/Task_Freelance.png" width="1200" height="611"/>
+</p>

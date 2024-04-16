@@ -9,9 +9,9 @@ The sample app layers its presentation through MVVM presentation pattern. Additi
 ## Description
 
 <p>
-<img align="center" src="misc/authentication.gif" width="260"/>
-<img align="center" src="misc/Home.gif" width="260"/>
-<img align="center" src="misc/Categories.gif" width="260"/>
+<img align="center" src="misc/authentication.gif" width="270"/>
+<img align="center" src="misc/Home.gif" width="270"/>
+<img align="center" src="misc/Categories.gif" width="270"/>
 </p>
 
 

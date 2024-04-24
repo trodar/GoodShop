@@ -79,7 +79,7 @@ Don't forget give a star.
 
 Then fork this repo, make it better and don't forget give a STAR.
 
-## The basis was to take a freelance project (I'm not selected candidate)
+## The basis was to take a freelance project
 
 <p>
 <img align="center" src="misc/Task_Freelance.png" width="1200" height="550"/>
